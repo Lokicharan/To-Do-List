@@ -28,14 +28,6 @@ Event Handling using ActionListener
 
 Dynamic UI updates
 
-🧩 Project Structure
-ToDoListApp/
-│
-├── src/
-│   └── ToDoListSimple.java     # Main Java source file
-│
-└── README.md                   # Project documentation
-
 ⚙️ How to Run the Program
 
 Open any Java IDE (IntelliJ, Eclipse, VS Code) or terminal.
@@ -44,13 +36,11 @@ Save the source file as ToDoListSimple.java.
 
 Compile the file:
 
-javac ToDoListSimple.java
-
+->javac ToDoListSimple.java
 
 Run the program:
 
-java ToDoListSimple
-
+->java ToDoListSimple
 
 The GUI window will open where you can:
 
